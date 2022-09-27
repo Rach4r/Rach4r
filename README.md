@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rach4r
-- 👀 I’m interested in data analysis using R
+- 👀 I’m interested in data analysis using R and Python
 
 
 <!---
